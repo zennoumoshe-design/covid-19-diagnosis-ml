@@ -140,15 +140,17 @@ These results demonstrate that, despite data limitations, a carefully designed a
 
 ## Repository Structure
 
+```
 ├── notebooks/
-│ └── DiagnosisOfCOVID19_EN.ipynb
+│   └── DiagnosisOfCOVID19_EN.ipynb
 ├── data/
-│ └── DatasetCovid19.xlsx
+│   └── DatasetCovid19.xlsx
 ├── reports/
-│ └── project_summary.md
+│   └── project_summary.md
 ├── README.md
 └── requirements.txt
-²
+```
+
 ---
 
 ## How to Run
