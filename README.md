@@ -151,12 +151,3 @@ These results demonstrate that, despite data limitations, a carefully designed a
 └── requirements.txt
 ```
 
----
-
-## How to Run
-1. Clone the repository  
-2. Install dependencies from `requirements.txt`  
-3. Open the notebook in Jupyter or Google Colab  
-4. Run the notebook sequentially
-
-
