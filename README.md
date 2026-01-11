@@ -139,6 +139,7 @@ These results demonstrate that, despite data limitations, a carefully designed a
 ---
 
 ## Repository Structure
+²
 ├── notebooks/
 │ └── DiagnosisOfCOVID19_EN.ipynb
 ├── data/
@@ -147,7 +148,7 @@ These results demonstrate that, despite data limitations, a carefully designed a
 │ └── project_summary.md
 ├── README.md
 └── requirements.txt
-
+²
 ---
 
 ## How to Run
