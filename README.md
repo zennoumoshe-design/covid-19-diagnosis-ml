@@ -139,7 +139,7 @@ These results demonstrate that, despite data limitations, a carefully designed a
 ---
 
 ## Repository Structure
-²
+
 ├── notebooks/
 │ └── DiagnosisOfCOVID19_EN.ipynb
 ├── data/
